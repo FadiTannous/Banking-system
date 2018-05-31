@@ -1,0 +1,59 @@
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+F:\Algonquin\14W\CST8253\Week 7\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.exe
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.pdb
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution\Lab6Solution\obj\Debug\Lab6Solution.exe
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\gongw\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+C:\gongw\Lab6Solution\Lab6Solution\obj\Debug\Lab6Solution.exe
+C:\gongw\Lab6Solution\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\gongw\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.exe
+C:\gongw\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.pdb
+C:\gongw\Lab6Solution\Lab6Solution\obj\Debug\Lab6Solution.csprojResolveAssemblyReference.cache
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.exe
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.pdb
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.exe
+G:\Algonquin\14W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.pdb
+E:\Algonquin\14W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+E:\Algonquin\14W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.exe
+E:\Algonquin\14W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\Algonquin\15W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+C:\Algonquin\15W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.exe
+C:\Algonquin\15W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\Algonquin\15W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.exe
+C:\Algonquin\15W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.pdb
+C:\Algonquin\15W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.csprojResolveAssemblyReference.cache
+C:\Algonquin\16W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+C:\Algonquin\16W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.exe
+C:\Algonquin\16W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\Algonquin\16W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.exe
+C:\Algonquin\16W\CST8253\Week 7\Lab6Solution - Final\Lab6Solution\bin\Debug\Lab6Solution.pdb
+C:\Algonquin\16W\CST8253\Week 7\Lab6Solution - Final - Copy\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+C:\Algonquin\16W\CST8253\Week 7\Lab6Solution - Final - Copy\Lab6Solution\obj\Debug\Lab6Solution.exe
+C:\Algonquin\16W\CST8253\Week 7\Lab6Solution - Final - Copy\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 6\Lab6Solution\Lab6Solution\obj\Debug\Lab6Solution.exe
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 6\Lab6Solution\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 6\Lab6Solution\Lab6Solution\obj\Debug\Lab6Solution.csprojResolveAssemblyReference.cache
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 6\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 6\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.exe
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 6\Lab6Solution\Lab6Solution\bin\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.exe
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.csprojResolveAssemblyReference.cache
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.exe
+C:\Users\Fadi\Documents\Visual Studio 2017\Projects\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Desktop\Testest\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.csprojResolveAssemblyReference.cache
+C:\Users\Fadi\Desktop\Testest\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.exe
+C:\Users\Fadi\Desktop\Testest\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Desktop\Testest\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+C:\Users\Fadi\Desktop\Testest\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.exe
+C:\Users\Fadi\Desktop\Testest\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Dropbox\Workstation\CST8253 - Web Programming II\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.exe.config
+C:\Users\Fadi\Dropbox\Workstation\CST8253 - Web Programming II\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.exe
+C:\Users\Fadi\Dropbox\Workstation\CST8253 - Web Programming II\Lab 7\Lab6Solution\bin\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Dropbox\Workstation\CST8253 - Web Programming II\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.csprojResolveAssemblyReference.cache
+C:\Users\Fadi\Dropbox\Workstation\CST8253 - Web Programming II\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.exe
+C:\Users\Fadi\Dropbox\Workstation\CST8253 - Web Programming II\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.pdb
+C:\Users\Fadi\Dropbox\Workstation\CST8253 - Web Programming II\Lab 7\Lab6Solution\obj\Debug\Lab6Solution.csproj.CoreCompileInputs.cache
